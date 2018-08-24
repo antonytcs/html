@@ -19,13 +19,11 @@
 					<li><a href="#top">Top</a></li>
 					<li><a href="#work">Work</a></li>
 					<li><a href="#portfolio">Portfolio</a></li>
-<<<<<<< HEAD
-				
-=======
 					<li><a href="#contact">Contact</a></li>
-					li><a href="#portfolio">DevOpS</a></li>
-					<li><a href="#contact">Codepipeline</a></li>
->>>>>>> 2ed74a0ce5b0804f9071b87cf055beaa1610761f
+					<li><a href="#contact1">DevOps</a></li>
+					<li><a href="#contact2">CodePipeline</a></li>
+					<li><a href="#contact1">DevOps</a></li>
+					<li><a href="#contact2">CodePipeline</a></li>
 				</ul>
 			</nav>
 
